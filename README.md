@@ -3,7 +3,7 @@ zip-diff
 
 ## zip-diff とは
 
-Source Tree 向けのカスタムアクションスクリプトです。
+[Source Tree](http://www.sourcetreeapp.com/) 向けのカスタムアクションスクリプトです。
 
 選択した 2 つのコミット間の差分ファイルを、 ZIP ファイルと一覧テキストファイルにまとめ、リポジトリの 1 階層上に保存します。
 
